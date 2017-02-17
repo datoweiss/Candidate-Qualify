@@ -1,2 +1,4 @@
 # Candidate-Qualify
-Change the Job Requirements to change the job parameters. 
+Change the Job.txt to change the job parameters.
+
+Keep the delimiter as • (alt 8) 
