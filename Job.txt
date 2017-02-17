@@ -1,0 +1,8 @@
+	•	B.S. or higher in the fields of statistics, applied mathematics, actuarial science, or related field.
+	•	Demonstrated experience applying a data science skill set (i.e., data management, data analysis, data visualization) to industry specific problems, prior health care analytics experience is a plus
+	•	Experience using a programming language such as Python or a statistical programming language (SAS, SPSS, Stata or R) is desired; Experience with more than one language including proficiency with software development technologies (e.g. Python, Java, C/C++, .Net) is a plus
+	•	Experience with collaboration tools and version control systems (e.g. Git).
+	•	Experience working with database languages such as SQL or MySQL is a plus;
+	•	Innovative and strong analytical and algorithmic problem solving. Experience solving analytical problems using quantitative approaches (e.g. Bayesian Analysis and Multi-scale Feature Identification is a plus);
+	•	Excellent critical thinking skills, combined with the ability to present your beliefs clearly and compellingly verbally and in written form, particularly the ability to convey technical information in an accessible and understandable manner.
+	•	Ability to communicate with both technical and non-­‐technical audiences
